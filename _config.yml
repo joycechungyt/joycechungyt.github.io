@@ -31,13 +31,13 @@ baseurl: ""
 # Navigation menu
 navigation_links:
   - title: Blog
-    url: /
+    url: https://joycechungyt.github.io
 
   - title: About
-    url: /about
+    url: https://joycechungyt.github.io/about
 
   - title: Search
-    url: /search
+    url: https://joycechungyt.github.io/search
 
 # Footer icons
 footer_links:
