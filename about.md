@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hello! I am Joyce Chung. I have experience and practical skills in the Data Science field through hands-on practice and creating projects on real life datasets.
+Hello! I am Joyce Chung. I have gathered practical skills and experience in data science through hands-on practice and creating projects on real life datasets.
 
 My languages are SQL and Python. I currently work on projects based on: 
 - Advanced statistical modelling
