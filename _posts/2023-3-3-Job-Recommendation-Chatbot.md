@@ -3,21 +3,16 @@ layout: post
 title: Job Recommendation Chatbot 
 categories: [content, demo]
 ---
-### What does it do? 
-## Purpose
-## Advantages
-### Skills 
----
 layout: post
 title: Simplify Your Data Science Job Search with Reverse CV Matching
 [![Github][2.2]][2]
 
 [2.2]:(https://github.com/joycechungyt/Job-Recommendation-Chatbot)
 
-Introduction:
+## Purpose
 Searching for data science jobs online can be a time-consuming process. With countless job postings to sift through, it's easy to feel overwhelmed. That's where our innovative chatbot comes in. By leveraging the power of reverse CV matching and utilizing cutting-edge technologies such as Selenium, Scrapingdog, Python, and sentence transformers, our chatbot saves you up to 80% of the time typically spent searching for data science jobs. Say goodbye to manual job hunting and let our chatbot do the work for you.
 
-How It Works:
+### What does it do? 
 Our chatbot employs web scraping techniques to gather job data from various online job portals and stores it in CSV files. We utilize Selenium, Scrapingdog, and Python to automate the process and ensure accurate and up-to-date job listings. Once the data is collected, we take it a step further by employing sentence transformers to tokenize the job context and generate embeddings. This enhances the chatbot's understanding of the job requirements and allows for more accurate matching.
 
 Reverse CV Matching:
@@ -26,7 +21,7 @@ Traditional job search platforms require you to manually search for jobs based o
 Accurate Job Recommendations:
 With the power of reverse CV matching and cutting-edge technologies, our chatbot excels at providing accurate job recommendations for data scientist roles. Simply input your query, and the chatbot will analyze your skills and preferences to present you with a curated list of job opportunities that align with your expertise. No more wasting time sifting through irrelevant listings.
 
-Benefits:
+## Advantages
 Using our chatbot for your data science job search offers several benefits:
 
 1. Time Savings: Our chatbot saves you up to 80% of the time typically spent searching for jobs online. With automated web scraping and reverse CV matching, you can focus on preparing for interviews and enhancing your skills.
