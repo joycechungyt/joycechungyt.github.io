@@ -3,9 +3,8 @@ layout: post
 title: Job Recommendation Chatbot 
 categories: [content, demo]
 ---
-layout: post
-title: Simplify Your Data Science Job Search with Reverse CV Matching
-[[Github][2.2]]
+Simplify Your Data Science Job Search with Reverse CV Matching
+[Github][2.2]
 
 [2.2]:(https://github.com/joycechungyt/Job-Recommendation-Chatbot)
 
