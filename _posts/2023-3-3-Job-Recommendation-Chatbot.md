@@ -10,6 +10,9 @@ categories: [content, demo]
 ---
 layout: post
 title: Simplify Your Data Science Job Search with Reverse CV Matching
+[![Github][2.2]][2]
+
+[2.2]:(https://github.com/joycechungyt/Job-Recommendation-Chatbot)
 
 Introduction:
 Searching for data science jobs online can be a time-consuming process. With countless job postings to sift through, it's easy to feel overwhelmed. That's where our innovative chatbot comes in. By leveraging the power of reverse CV matching and utilizing cutting-edge technologies such as Selenium, Scrapingdog, Python, and sentence transformers, our chatbot saves you up to 80% of the time typically spent searching for data science jobs. Say goodbye to manual job hunting and let our chatbot do the work for you.
